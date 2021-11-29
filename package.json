@@ -6,7 +6,7 @@
   "files": [
     "build"
   ],
-  "types": "index.d.ts",
+  "types": "build/custom-sorts.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "typescript": "tsc",
