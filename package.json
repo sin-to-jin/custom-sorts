@@ -1,6 +1,6 @@
 {
   "name": "custom-sorts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "custom sorts",
   "main": "index.js",
   "files": [
