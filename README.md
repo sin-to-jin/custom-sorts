@@ -4,8 +4,6 @@ This library is custom sort utils.
 
 ## Installation
 
----
-
 ```shell
 npm install custom-sorts
 ```
@@ -17,8 +15,6 @@ yarn add custom-sorts
 ```
 
 ## Usage
-
----
 
 This is all you need to get started:
 
