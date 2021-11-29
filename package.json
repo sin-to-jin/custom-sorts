@@ -1,11 +1,20 @@
 {
   "name": "custom-sorts",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "custom sorts",
   "main": "index.js",
+  "files": [
+    "build"
+  ],
+  "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typescript": "tsc",
+    "prepare": "npm run build"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "sin-jin",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
