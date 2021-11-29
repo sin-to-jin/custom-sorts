@@ -9,7 +9,7 @@
   "types": "build/custom-sorts.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "typescript": "tsc",
+    "build": "tsc",
     "prepare": "npm run build"
   },
   "author": "sin-jin",
